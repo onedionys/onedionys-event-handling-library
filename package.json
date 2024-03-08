@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-event-handling-library",
+  "version": "1.0.0",
+  "description": "One Dionys (Event Handling Library) - A library for easily handling events in web applications.",
+  "main": "src/eventHandler.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-event-handling-library.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "event-handling-library"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-event-handling-library/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-event-handling-library#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-error-handling-utilities": "^1.0.0",
+    "onedionys-form-input-masking": "^1.0.0",
+    "onedionys-responsive-design-helpers": "^1.0.0",
+    "onedionys-scrolling-utilities": "^1.0.0",
+    "onedionys-web-storage-abstraction": "^1.0.0"
+  }
+}
