@@ -58,6 +58,7 @@ This library provides a simple way to handle events in JavaScript applications. 
 ## 📆 Release Date
 
 * v1.0.0 : 08 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
