@@ -1,6 +1,6 @@
 {
   "name": "onedionys-event-handling-library",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Event Handling Library) - A library for easily handling events in web applications.",
   "main": "src/eventHandler.js",
   "directories": {
